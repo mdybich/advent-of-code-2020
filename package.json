@@ -1,0 +1,30 @@
+{
+  "name": "advent-of-code-2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdybich/advent-of-code-2020.git"
+  },
+  "author": "mdybich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdybich/advent-of-code-2020/issues"
+  },
+  "homepage": "https://github.com/mdybich/advent-of-code-2020#readme",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "12.12.6",
+    "@types/ramda": "^0.27.32",
+    "prettier": "^2.2.1",
+    "ts-node": "^9.1.0",
+    "typescript": "^4.1.2"
+  },
+  "dependencies": {
+    "ramda": "^0.27.1"
+  }
+}
